@@ -3,9 +3,11 @@ hellofx
 
 実行：
 
-  sh gradlew run
+	sh gradlew	// Mac OS X
+	gradlew		// Windows
 
 
 ビルド：
 
-  sh gradlew build
+	sh gradlew build    // Mac OS X
+	gradlew build       // Windows
